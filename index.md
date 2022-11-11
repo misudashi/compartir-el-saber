@@ -9,42 +9,25 @@ banner_subtitle: Compartir el saber es una asociación que pretenda ayudar a los
 background_image: /images/background.jpeg
 
 # OPTIONAL
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+page_url: 
 
 # favicon
-favicon: /assets/ico/favicon.ico
+favicon: https://misudashi.github.io/compartir-el-saber/favicon.png
 
-# social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
-# facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
-# google_analytics: <-- your google analytics Tracking ID
+
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
-
-# optional portfolio section ------------------------------------------
-
-# By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
-
-portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
-
-# optional CTA section --------------------------------------------------
-
-# By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
-cta_button_label: contact # the label on the button
+about_button: https://misudashi.github.io/compartir-el-saber
+about_button_label: ayúdanos
 
 ---			
 [//]: # (write a bit about yourself here)
-### **Porque** "Compartir El Saber"? 
+### ¿Porque "Compartir El Saber"? 
 
-### Compartir el saber es una asociación que pretenda ayudar a los jóvenes necesitados para garantizarlos un futuro fuera de la ignorancia.
-  
-Mettre un texte frappant
-  
+### Compartir el saber es una asociación que pretenda ayudar a los jóvenes necesitados para garantizarlos un futuro fuera de la ignorancia
+
+Con "Compartir El Saber" puedes enviarnos cursos sobre temas que conozcas para que los utilicemos en países pobres para dar educación a quienes no tienen suficiente dinero para ir a la escuela. De este modo, puedes contribuir a su educación sin tener que pagar. Compartir El Saber es una asociación revolucionaria que aspira a un mundo mejor, alejado de la ignorancia.
+
+Si te gusta este proyecto, puedes escribirnos y enviarnos tus lecciones por correo electrónico a compartir-el-saber@gmail.com.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
