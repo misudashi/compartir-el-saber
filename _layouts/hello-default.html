@@ -60,15 +60,15 @@
     <!-- HEADER -->		
     <header id="header">
       <h1 id="logo" style="text-transform:lowercase">
-        <a href="/">hello</a></h1>
+        <a href="/">compartir el saber</a></h1>
       <nav id="nav">
         <ul>
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
+          <li style="text-transform:lowercase"><a href="mailto:compartir-el-saber@gmail.com">Contáctenos</a></li>
           {% if page.portfolio %}
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio }}">{{ page.portfolio }}</a></li>
+          <li style="text-transform:lowercase"><a href="https://misudashi.github.io/compartir-el-saber">Más información</a></li>
           {% endif %}
           {% if page.cta %}
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.cta }}"> {{ page.cta }} </a></li>
+          <li style="text-transform:lowercase"><a href="https://misudashi.github.io/compartir-el-saber">Ayúdanos</a></li>
           {% endif %}
         </ul>
       </nav>
@@ -77,7 +77,7 @@
     <!-- BANNER -->		
     <section id="banner" 
     {% if page.background_image %}
-    style="background-image: url('{{ page.background_image }}'); background-attachment: fixed; background-size: cover;"
+    style="background-image: url(https://misudashi.github.io/compartir-el-saber'{{ page.background_image }}'); background-attachment: fixed; background-size: cover;"
         {% endif %}>
 
         <div class="inner">
@@ -177,25 +177,10 @@
     <!-- Footer -->
     <footer id="footer">
 
-        <ul class="icons">
-            {% if page.twitter_username %}
-            <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-            {% endif %}
-            {% if page.facebook_username %}
-            <li><a href="https://www.facebook.com/{{ page.facebook_username }}" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-            {% endif %}
-            {% if page.github_username %}
-            <li><a href="https://github.com/{{ page.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
-            {% endif %}
-            {% if page.linkedin %}
-            <li><a href="https://linkedin.com/in/{{ page.linkedin }}" class="icon circle fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
-            {% endif %}
-        </ul>
-
     <ul class="copyright">
-        <li>this website is maintained by {{ site.author}}</li>
-        <li>design: <a href="https://saragong.github.io/hello/"><strong>hello</strong></a> for github pages</li>
-        <li>adapted from <a href="https://html5up.net/twenty"><strong>Twenty</strong></a> by HTML5 Up</li>
+        <li>Amir</li>
+	<li><strong>Compartir</strong> El <strong>Saber</strong></li>
+        <li>Erwan</li>
     </ul>
 
 </footer>
