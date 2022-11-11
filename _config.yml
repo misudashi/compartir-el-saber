@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Compartir El Saber
+author: Erwan y Amir
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  Compartir el saber es una asociación que pretenda ayudar a los jóvenes necesitados para garantizarlos un futuro fuera de la ignorancia.
+baseurl: "https://misudashi.github.io/compartir-el-saber"
 
 plugins:
   - jekyll-feed
