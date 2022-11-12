@@ -28,6 +28,4 @@ about_button_label: ayúdanos
 
 Con "Compartir El Saber" puedes enviarnos cursos sobre temas que conozcas para que los utilicemos en países pobres para dar educación a quienes no tienen suficiente dinero para ir a la escuela. De este modo, puedes contribuir a su educación sin tener que pagar. Compartir El Saber es una asociación revolucionaria que aspira a un mundo mejor, alejado de la ignorancia.
 
-Si te gusta este proyecto, puedes escribirnos y enviarnos tus lecciones por correo electrónico a compartir-el-saber@gmail.com.
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+Si te gusta este proyecto, puedes escribirnos y enviarnos tus lecciones por correo electrónico a contact@compartir-el-saber.ga
