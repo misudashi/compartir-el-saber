@@ -25,7 +25,7 @@ about_button_label: ayúdanos
 ### OBJETIVO DE LA ASOCIACIÓN
 Nuestra asociación tiene como objetivo permitir que todos compartan este conocimiento con aquellos que tienen menos acceso.
 
-<button>COMPARTIR MI SABER<button>
+<button href="mailto:compartir-el-saber@gmail.com">COMPARTIR MI SABER
 
 ### MÁS INFORMACIÓN
 «Compartir El Saber» es una asociación que pretenda ayudar a los jóvenes necesitados para garantizarlos un futuro fuera de la ignorancia.
