@@ -18,7 +18,7 @@ favicon: https://misudashi.github.io/compartir-el-saber/favicon.png
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://misudashi.github.io/compartir-el-saber
-about_button_label: ayúdanos
+about_button_label: Compartir mi saber
 
 ---			
 [//]: # (write a bit about yourself here)
