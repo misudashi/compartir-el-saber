@@ -22,10 +22,14 @@ about_button_label: ayúdanos
 
 ---			
 [//]: # (write a bit about yourself here)
-### ¿Porque "Compartir El Saber"? 
+### OBJETIVO DE LA ASOCIACIÓN
+Nuestra asociación tiene como objetivo permitir que todos compartan este conocimiento con aquellos que tienen menos acceso.
 
-### Compartir el saber es una asociación que pretenda ayudar a los jóvenes necesitados para garantizarlos un futuro fuera de la ignorancia
+<button>COMPARTIR MI SABER<button>
 
-Con "Compartir El Saber" puedes enviarnos cursos sobre temas que conozcas para que los utilicemos en países pobres para dar educación a quienes no tienen suficiente dinero para ir a la escuela. De este modo, puedes contribuir a su educación sin tener que pagar. Compartir El Saber es una asociación revolucionaria que aspira a un mundo mejor, alejado de la ignorancia.
+### MÁS INFORMACIÓN
+«Compartir El Saber» es una asociación que pretenda ayudar a los jóvenes necesitados para garantizarlos un futuro fuera de la ignorancia.
 
-Si te gusta este proyecto, puedes escribirnos y enviarnos tus lecciones por correo electrónico a contact@compartir-el-saber.ga
+Con “Compartir El Saber” puedes enviarnos cursos sobre temas que conozcas para que los utilicemos en países pobres para dar educación a quienes no tienen suficiente dinero para ir a la escuela. De este modo, puedes contribuir a su educación sin tener que pagar. Compartir El Saber es una asociación revolucionaria que aspira a un mundo mejor, alejado de la ignorancia.
+
+Por favor consulte la pestaña Contactos si tiene alguna pregunta.
